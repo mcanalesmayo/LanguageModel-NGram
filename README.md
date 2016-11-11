@@ -13,6 +13,6 @@ The aim of this program is to try the performance of bigrams and trigrams in lan
 
 ## Author
 
-If you use this code, please reference: Javier Civera - jcivera@unizar.es
+If you use this code, please reference: **Javier Civera** - jcivera@unizar.es
 
 Example code (main.m) developed by [Marcos Canales Mayo](https://github.com/MarcosCM)
